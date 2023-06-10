@@ -1,0 +1,2 @@
+#!/bin/bash
+chomd -h -R vincent staff
