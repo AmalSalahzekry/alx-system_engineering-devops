@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -h -R vincent staff
+chmod -h -R vincent staff
